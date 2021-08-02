@@ -1,16 +1,25 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMeantint&count_bg=%2382A7D3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**Meantint/Meantint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meantint 
 
-Here are some ideas to get you started:
+![Meantint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meantint&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+- **Node.js** / **Vue.js** / **Express.js**
+
+- **HTML** / **CSS** / **JS**
+
+- **C** / **C++**
+
+- **Linux**
+
+### Blog
+&nbsp;[@meantint](https://velog.io/@meantint)
+
+<!-- 
+[![Meantint's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Meantint&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meantint&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ -->
